@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <li>Acessibilidade e Refatoração</li>
   </ul>
       
-  [Visite o projeto online](https://iaramarques.github.io/Stage02-Projeto02-Treine.me/)
+  [Visite o projeto online](https://esio1998.github.io/Projeto02-Desafio03-Rocket.sect/)
 
 
 <br/>
