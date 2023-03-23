@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto02-Desafio03 <br/> Rocket.sect </h1>
+<h1 align="center"> Stage02-Desafio03 <br/> Rocket.sect </h1>
 
 <br>
 
