@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <li>Acessibilidade e Refatoração</li>
   </ul>
       
-  [Visite o projeto online](https://esio1998.github.io/Projeto02-Desafio03-Rocket.sect/)
+  [Visite o projeto online](https://esioalmeida.github.io/Stage02-Desafio03-Rocket.sect/)
 
 
 <br/>
